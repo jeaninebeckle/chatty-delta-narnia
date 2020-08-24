@@ -20,6 +20,7 @@ A Narnia themed group project making a chatroom to practice modules, SASS stylin
 1. Run npm install
 1. Use your favorite http server (like [http-server](https://www.npmjs.com/package/http-server)) to serve it up (`npm start`)
 1. In your browser, go where it's being served (default is localhost:8081)
+1. Visit the deployed site at https://chatty-narnia.web.app/
 
 ## Contributors
 * [Brooke Nemchak](https://github.com/bnemchak)
@@ -34,5 +35,3 @@ A Narnia themed group project making a chatroom to practice modules, SASS stylin
 - [ ] Gif selector
 - [ ] Emojis
 - [ ] 👍🏻 or 👎🏻 Messages
-
-code block example:
